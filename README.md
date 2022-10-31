@@ -13,4 +13,5 @@ This microservice program recieves a request by monitoring a text file 'user_inp
 ## RECEIVE 
 This microservice program outputs the necissary information for the user who requested it to a text file named 'monthly_savings_amount.txt'. The user can read this file to recieve the monthly amount a user would need to save based on their input to reach their savings goal. 
 
+## UML Sequence Diagram
 <img width="724" alt="Screen Shot 2022-10-31 at 1 18 36 PM" src="https://user-images.githubusercontent.com/91487097/199102519-aae060fb-90fb-4cc8-932f-32a9a1c5485f.png">
